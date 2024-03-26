@@ -6,7 +6,7 @@ Com o Github, é possível, por exemplo, criar um repositório para um trabalho 
 
 Além disso, com o Github Student Developer Pack, estudantes de graduação possuem acesso gratuito a diversos cursos e ferramentas de desenvolvimento.
 
-Para **criar**, **personalizar** e **adquirir benefícios** com sua conta no Github, siga esses passos:
+Para **criar**, **personalizar** (opcional) e **adquirir benefícios** (opcional) com sua conta no Github, siga esses passos:
 
 ## :computer: Criando a conta
 
@@ -32,7 +32,7 @@ Para **criar**, **personalizar** e **adquirir benefícios** com sua conta no Git
 
 Parabéns! Sua conta está criada :)
 
-## :pencil: Personalizando a conta
+## :pencil: Personalizando a conta _[Opcional]_
 
 Em sua conta do Github, você pode expor url de outras redes sociais, um nome personalizado, uma foto de perfil e outras personalizações.
 
@@ -44,7 +44,7 @@ Em sua conta do Github, você pode expor url de outras redes sociais, um nome pe
 
 ![img](../img/8.png)
 
-## :stars: Adquirindo benefícios com GitHub Student Developer Pack
+## :stars: Adquirindo benefícios com GitHub Student Developer Pack _[Opcional]_
 
 O **Github Student Developer Pack** é um programa criado pelo Github para ajudar os alunos a terem acesso à ferramentas e cursos profissionais de desenvolvimento de software de forma gratuita. Para participar do programa, basta ser maior que 13 anos e estar matriculado em uma instituição de ensino (não há limitações sobre curso ou instituição.)
 
