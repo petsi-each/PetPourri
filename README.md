@@ -16,8 +16,8 @@ Ao finalizar o curso, você:
   
 # Conteúdo
 
-- [Aula 0 - Introdução à técnicas de leitura de documentação, GitHub e Markdown](....)
-- [Aula 1 - Introdução ao Gnuplot, LaTeX e Overleaf](...)
+- [Aula 1 - Introdução à técnicas de leitura de documentação, GitHub e Markdown](....)
+- [Aula 2 - Introdução ao Gnuplot, LaTeX e Overleaf](...)
 
 # Conheça o PET-SI
 
