@@ -16,8 +16,8 @@ Ao finalizar o curso, você:
   
 # Conteúdo
 
-- [Aula 1 - Introdução à técnicas de leitura de documentação, GitHub e Markdown](....)
-- [Aula 2 - Introdução ao Gnuplot, LaTeX e Overleaf](...)
+- [Aula 1 - Introdução à técnicas de leitura de documentação, GitHub e Markdown](https://github.com/petsi-each/PetPourri/tree/c623d449f021d475c843b3d21c55467ed9ac5240/1.%20Aula%201)
+- [Aula 2 - Introdução ao Gnuplot, LaTeX e Overleaf](https://github.com/petsi-each/PetPourri/tree/c623d449f021d475c843b3d21c55467ed9ac5240/2.%20Aula%20%202)
 
 # Conheça o PET-SI
 
