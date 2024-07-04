@@ -13,7 +13,7 @@ Ao finalizar o curso, você:
 - Entenderá o uso de GitHub e Markdown para controle de versão e documentação de projetos
 - Utilizará Gnuplot para visualização de dados
 - Aprenderá a usar LaTeX e Overleaf para criação de documentos variados
-- 
+  
 # Conteúdo
 
 - [Aula 0 - Introdução à técnicas de leitura de documentação, GitHub e Markdown](....)
