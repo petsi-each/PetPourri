@@ -4,7 +4,7 @@
   <i>Owlficinas, PET-SI</i>
 </p>
 
-# Aula 1 - Técnicas de Leitura de Documentação, GitHub e Markdown
+# Aula 1 - Introdução à técnicas de leitura de documentação, GitHub e Markdown
 
 ## Links Recomendados e Acessados
 
