@@ -27,9 +27,15 @@ Este curso é uma atividade do projeto **Owlficinas**, que organiza oficinas e w
 
 Para saber mais sobre o PET e suas oportunidades, siga-nos no Instagram! [@petsieach](https://www.instagram.com/petsieach/)
 
-**Professores**
+**Professores 2024**
 - Ana Clara Segal
 - Dani Yumi
 - Otávio Rosa
 - Vinícius Francisco
 
+**Professores 2025**
+- Lucas Giovani Santos
+- João Victor Pereira Lopes
+- Mariana Saltarelli
+- Rayssa Buarque
+- Tae Jin Chun
