@@ -92,7 +92,5 @@ Para saber mais sobre o PET e suas oportunidades, siga-nos no Instagram\! [@pets
 ## **📚 Referências**
 
 * [Documentação Git](https://git-scm.com/docs/git/pt_BR)  
-* Referência 2  
 * [Editor de README](https://readme.so/editor)  
-* Material Complementar 2
 
