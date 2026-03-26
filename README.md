@@ -39,3 +39,12 @@ Para saber mais sobre o PET e suas oportunidades, siga-nos no Instagram! [@petsi
 - Mariana Saltarelli
 - Rayssa Buarque
 - Tae Jin Chun
+
+**Professores 2026**
+- Ana Beatriz Fernandes Alves
+- Enzo Brilhante Mattos
+- Isabelle Tobias
+- Layla Silva Nogueira
+- Mariana Medeiros Santos
+- Sabrina Cristan
+- Vinicios Conceição
