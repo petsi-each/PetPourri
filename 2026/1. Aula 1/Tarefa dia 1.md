@@ -1,6 +1,6 @@
 # 🚀 Descrição da 1ª Tarefa: Git, GitHub e Markdown
 
-Agora que vocês já foram apresentados às ferramentas da primeira aula, está na hora de colocar a mão na massa! Esta tarefa consiste em duas partes simples que devem ser entregues até o dia **--/--**.
+Agora que vocês já foram apresentados às ferramentas da primeira aula, está na hora de colocar a mão na massa! Esta tarefa consiste em duas partes simples que devem ser entregues até o dia **08/04**.
 
 ---
 
@@ -27,14 +27,15 @@ O README de perfil é um arquivo de markdown que aparece na página inicial do s
 ### 2️⃣ Criação e Manuseio de um Repositório
 Nessa etapa, você deve:
 
-* **Criar** um repositório no seu perfil do GitHub.
-* **Abrir** uma nova ramificação (`branch` secundária).
-* **Realizar** uma alteração qualquer nessa nova branch.
-* **Unir** as modificações (`merge`) com a branch principal.
+1. **Criar** um repositório **público** no seu perfil do GitHub com um README
+2. **Abrir** uma nova ramificação (`branch` secundária).
+3. **Realizar** uma alteração qualquer no README nessa nova branch.
+4. **Unir** as modificações (`merge`) com a branch principal.
+5. Prontinho!
 
 ---
 
 > ⚠️ **Importante:** Se tiver qualquer dúvida sinta-se livre para contatar os petianes! 🦉
 
 ### 📩 Entrega
-As atividades deverão ser enviadas até o dia **--/--**, por meio do formulário de entrega disponível [aqui]() ADD LINK FORMS.
+As atividades deverão ser enviadas até o dia **08/04**, por meio do formulário de entrega disponível [aqui](https://www.notion.so/330430a2eb16805fb5bdd775890b5612?pvs=106).
