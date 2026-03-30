@@ -24,6 +24,22 @@ O README de perfil é um arquivo de markdown que aparece na página inicial do s
 9. Por fim clique em Commit changes
 10. Visite o seu perfil e veja o resultado!
 
+| Elemento           | Sintaxe Markdown                     | Exemplo Renderizado        |
+|-------------------|-------------------------------------|----------------------------|
+| Título            | # Título                            | <h1>Título</h1>            |
+| Subtítulo         | ## Subtítulo                        | <h2>Subtítulo</h2>         |
+| Negrito           | \*\*texto**                           | **texto**                  |
+| Itálico           | \*texto*                             | *texto*                    |
+| Tachado           | \~\~texto~~                           | ~~texto~~                  |
+| Lista não ordenada| \- item                              | • item                     |
+| Lista ordenada    | 1. item                             | 1. item                    |
+| Link              | \[texto]\(url)                        | texto clicável             |
+| Imagem            | \![alt]\(url)                         | imagem                     |
+| Código inline     | \`código`                            | código                     |
+| Bloco de código   | \```linguagem ... ```                | bloco formatado            |
+| Citação           | \> texto                             | texto em citação           |
+| Linha horizontal  | ---                                 | linha divisória            |
+
 ### 2️⃣ Criação e Manuseio de um Repositório
 Nessa etapa, você deve:
 
