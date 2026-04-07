@@ -46,4 +46,5 @@ Para saber mais sobre o PET e suas oportunidades, siga-nos no Instagram! [@petsi
 - Isabelle Tobias
 - Layla Silva Nogueira
 - Mariana Medeiros Santos
+- Sabrina Cristan
 - Vinicios Conceição
